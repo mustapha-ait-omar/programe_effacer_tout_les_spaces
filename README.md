@@ -1,0 +1,2 @@
+# programe_effacer_tout_les_spaces
+programe_effacer_tout_les_spaces
